@@ -1,0 +1,1255 @@
+[
+  {
+    "question": "What percentage of the Earth's surface is covered by oceans?",
+    "options": ["50%", "70%", "85%", "60%"],
+    "correctAnswerIndex": 1,
+    "rating": 1,
+    "topic": "marine"
+  },
+  {
+    "question": "Which type of plastic is most commonly found in ocean debris?",
+    "options": ["PET bottles", "Plastic bags", "Microplastics", "Styrofoam"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main greenhouse gas contributing to climate change?",
+    "options": ["Methane", "Carbon dioxide", "Nitrous oxide", "Ozone"],
+    "correctAnswerIndex": 1,
+    "rating": 1,
+    "topic": "climate"
+  },
+  {
+    "question": "How long does it take for a plastic bottle to decompose in the ocean?",
+    "options": ["50 years", "100 years", "450 years", "1000 years"],
+    "correctAnswerIndex": 2,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "What does the 'R' in the 3 R's of waste management stand for?",
+    "options": ["Recycle", "Reduce, Reuse, Recycle", "Remove", "Restore"],
+    "correctAnswerIndex": 1,
+    "rating": 1,
+    "topic": "recycling"
+  },
+  {
+    "question": "Which material can be recycled indefinitely without losing quality?",
+    "options": ["Paper", "Plastic", "Glass", "Cardboard"],
+    "correctAnswerIndex": 2,
+    "rating": 2,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the Great Pacific Garbage Patch?",
+    "options": ["A landfill", "A collection of marine debris", "An oil spill", "A coral reef"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "Which activity releases the most CO2 into the atmosphere?",
+    "options": ["Transportation", "Electricity production", "Agriculture", "Manufacturing"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "climate"
+  },
+  {
+    "question": "What color bin is typically used for recyclable materials?",
+    "options": ["Green", "Blue", "Yellow", "Red"],
+    "correctAnswerIndex": 1,
+    "rating": 1,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is ocean acidification caused by?",
+    "options": ["Plastic pollution", "Oil spills", "CO2 absorption", "Overfishing"],
+    "correctAnswerIndex": 2,
+    "rating": 4,
+    "topic": "marine"
+  },
+  {
+    "question": "Which renewable energy source is most widely used globally?",
+    "options": ["Solar", "Wind", "Hydroelectric", "Geothermal"],
+    "correctAnswerIndex": 2,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "What is the most effective way to reduce your carbon footprint?",
+    "options": ["Recycling", "Using public transport", "Eating less meat", "Buying local produce"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "climate"
+  },
+  {
+    "question": "Which type of waste should never be put in regular trash?",
+    "options": ["Food scraps", "Paper", "Batteries", "Clothing"],
+    "correctAnswerIndex": 2,
+    "rating": 2,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is microplastic?",
+    "options": ["Small plastic bottles", "Plastic particles less than 5mm", "Recycled plastic", "Biodegradable plastic"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "Which gas has the highest global warming potential?",
+    "options": ["CO2", "Methane", "Nitrous oxide", "Fluorinated gases"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which renewable energy source is most reliable?",
+    "options": ["Solar", "Wind", "Hydroelectric", "Geothermal"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main component of e-waste that's valuable?",
+    "options": ["Plastic", "Glass", "Precious metals", "Batteries"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "recycling"
+  },
+  {
+    "question": "Which ocean zone has the most marine life?",
+    "options": ["Sunlight zone", "Twilight zone", "Midnight zone", "Abyssal zone"],
+    "correctAnswerIndex": 0,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main source of energy for photosynthesis?",
+    "options": ["Water", "Sunlight", "Carbon dioxide", "Chlorophyll"],
+    "correctAnswerIndex": 1,
+    "rating": 1,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of pollution affects food chains most?",
+    "options": ["Air pollution", "Water pollution", "Bioaccumulation", "Noise pollution"],
+    "correctAnswerIndex": 2,
+    "rating": 4,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main benefit of carbon pricing?",
+    "options": ["Generates revenue", "Reduces emissions", "Encourages innovation", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 4,
+    "topic": "climate"
+  },
+  {
+    "question": "Which type of waste management reduces greenhouse gases most?",
+    "options": ["Recycling", "Composting", "Waste-to-energy", "Landfill gas capture"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the main cause of fish population decline?",
+    "options": ["Pollution", "Climate change", "Overfishing", "Habitat loss"],
+    "correctAnswerIndex": 2,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "Which energy source has the lowest lifecycle emissions?",
+    "options": ["Natural gas", "Nuclear", "Solar", "Wind"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "climate"
+  },
+  {
+    "question": "What is the main advantage of smart grids?",
+    "options": ["Lower costs", "Better reliability", "Integrates renewables", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of plastic pollution is most harmful to seabirds?",
+    "options": ["Microplastics", "Plastic bags", "Bottle caps", "Fishing nets"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main source of volatile organic compounds (VOCs)?",
+    "options": ["Vehicles", "Industries", "Solvents", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which practice helps reduce urban air pollution most?",
+    "options": ["Public transportation", "Electric vehicles", "Green spaces", "Industrial controls"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main benefit of biodegradable packaging?",
+    "options": ["Cheaper to produce", "Decomposes naturally", "Stronger material", "Better appearance"],
+    "correctAnswerIndex": 1,
+    "rating": 1,
+    "topic": "recycling"
+  },
+  {
+    "question": "Which type of renewable energy works best in deserts?",
+    "options": ["Wind", "Solar", "Geothermal", "Hydroelectric"],
+    "correctAnswerIndex": 1,
+    "rating": 1,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main cause of marine noise pollution?",
+    "options": ["Ship traffic", "Offshore drilling", "Sonar", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "Which greenhouse gas has the shortest atmospheric lifetime?",
+    "options": ["CO2", "Methane", "Nitrous oxide", "Fluorinated gases"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "climate"
+  },
+  {
+    "question": "What is the main component of municipal solid waste?",
+    "options": ["Paper", "Food waste", "Plastic", "Yard waste"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "recycling"
+  },
+  {
+    "question": "Which marine ecosystem is most threatened by climate change?",
+    "options": ["Coral reefs", "Mangroves", "Kelp forests", "Deep sea"],
+    "correctAnswerIndex": 0,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main advantage of energy efficiency?",
+    "options": ["Reduces costs", "Reduces emissions", "Reduces demand", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of air pollution is most dangerous to human health?",
+    "options": ["PM2.5", "Ozone", "Nitrogen dioxide", "Carbon monoxide"],
+    "correctAnswerIndex": 0,
+    "rating": 4,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main source of pharmaceutical pollution in water?",
+    "options": ["Hospitals", "Households", "Manufacturing", "Agriculture"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which practice helps protect groundwater?",
+    "options": ["Proper waste disposal", "Reducing pesticide use", "Preventing leaks", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main benefit of forest conservation?",
+    "options": ["Carbon storage", "Biodiversity protection", "Water regulation", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of waste is increasing fastest in developing countries?",
+    "options": ["Plastic waste", "Electronic waste", "Organic waste", "Medical waste"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main cause of tropical deforestation?",
+    "options": ["Logging", "Agriculture", "Mining", "Urbanization"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which marine species is most important for ocean health?",
+    "options": ["Whales", "Sharks", "Plankton", "Coral"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main driver of energy transition?",
+    "options": ["Climate policy", "Technology advancement", "Economic factors", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of pollution is most difficult to clean up?",
+    "options": ["Oil spills", "Chemical contamination", "Plastic pollution", "Radioactive waste"],
+    "correctAnswerIndex": 3,
+    "rating": 4,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main benefit of sustainable fishing?",
+    "options": ["Higher profits", "Stock preservation", "Better quality", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "Which renewable energy source has the most potential globally?",
+    "options": ["Solar", "Wind", "Hydroelectric", "Geothermal"],
+    "correctAnswerIndex": 0,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main cause of water pollution in rivers?",
+    "options": ["Industrial discharge", "Agricultural runoff", "Urban sewage", "All equally"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which type of carbon capture is most promising?",
+    "options": ["Direct air capture", "Industrial capture", "Natural solutions", "Ocean capture"],
+    "correctAnswerIndex": 2,
+    "rating": 4,
+    "topic": "climate"
+  },
+  {
+    "question": "What is the main advantage of recycling aluminum?",
+    "options": ["Saves energy", "Reduces mining", "Prevents pollution", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "recycling"
+  },
+  {
+    "question": "Which ocean phenomenon affects global weather patterns?",
+    "options": ["El Niño", "Ocean acidification", "Sea level rise", "Marine heatwaves"],
+    "correctAnswerIndex": 0,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main source of black carbon emissions?",
+    "options": ["Vehicles", "Cooking stoves", "Industrial processes", "Wildfires"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "climate"
+  },
+  {
+    "question": "Which waste management strategy is most cost-effective?",
+    "options": ["Landfill", "Recycling", "Waste reduction", "Incineration"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the main threat to Arctic marine ecosystems?",
+    "options": ["Oil drilling", "Shipping", "Ice melting", "Pollution"],
+    "correctAnswerIndex": 2,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "Which type of pollution has the most global impact?",
+    "options": ["Air pollution", "Water pollution", "Soil pollution", "Plastic pollution"],
+    "correctAnswerIndex": 0,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main benefit of sustainable urban planning?",
+    "options": ["Reduces emissions", "Improves quality of life", "Saves resources", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which renewable energy storage technology is most mature?",
+    "options": ["Lithium batteries", "Pumped hydro", "Compressed air", "Hydrogen"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main cause of invasive species in oceans?",
+    "options": ["Climate change", "Shipping", "Aquaculture", "Tourism"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "Which type of waste has the highest recycling rate globally?",
+    "options": ["Paper", "Glass", "Metal", "Plastic"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the main driver of biodiversity loss?",
+    "options": ["Climate change", "Habitat destruction", "Pollution", "Overexploitation"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which greenhouse gas removal method is most scalable?",
+    "options": ["Tree planting", "Direct air capture", "Soil carbon", "Biochar"],
+    "correctAnswerIndex": 0,
+    "rating": 4,
+    "topic": "climate"
+  },
+  {
+    "question": "What is the main source of indoor water pollution?",
+    "options": ["Lead pipes", "Bacteria", "Chemicals", "Sediment"],
+    "correctAnswerIndex": 0,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which marine conservation approach is most effective?",
+    "options": ["Single-species protection", "Ecosystem-based management", "Pollution control", "Fishing bans"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main advantage of district heating systems?",
+    "options": ["Lower costs", "Higher efficiency", "Reduces emissions", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of environmental monitoring is most important?",
+    "options": ["Air quality", "Water quality", "Soil quality", "All equally important"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main benefit of green chemistry?",
+    "options": ["Safer chemicals", "Less waste", "Lower costs", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "Which climate tipping point is most concerning?",
+    "options": ["Arctic ice loss", "Amazon dieback", "Permafrost melting", "All equally"],
+    "correctAnswerIndex": 3,
+    "rating": 5,
+    "topic": "climate"
+  },
+  {
+    "question": "What is the most effective way to reduce ocean plastic?",
+    "options": ["Beach cleanups", "Waste management", "Plastic alternatives", "All combined"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "Which sustainable development goal addresses climate change?",
+    "options": ["SDG 7", "SDG 13", "SDG 14", "SDG 15"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "climate"
+  },
+  {
+    "question": "What is the main challenge in electronic waste recycling?",
+    "options": ["Collection", "Sorting", "Toxic materials", "Economic viability"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "recycling"
+  },
+  {
+    "question": "Which ecosystem service is most undervalued economically?",
+    "options": ["Pollination", "Water purification", "Climate regulation", "Cultural services"],
+    "correctAnswerIndex": 3,
+    "rating": 5,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main source of ammonia emissions?",
+    "options": ["Industry", "Agriculture", "Transportation", "Waste"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which marine pollution type is most persistent?",
+    "options": ["Oil", "Plastic", "Chemicals", "Nutrients"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main benefit of passive solar design?",
+    "options": ["No maintenance", "Reduces energy use", "Improves comfort", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of climate adaptation is most important?",
+    "options": ["Infrastructure", "Ecosystem-based", "Social", "All equally"],
+    "correctAnswerIndex": 3,
+    "rating": 4,
+    "topic": "climate"
+  },
+  {
+    "question": "What is the main driver of sustainable consumption?",
+    "options": ["Consumer awareness", "Government policy", "Industry innovation", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "Which waste-to-energy technology is most environmentally friendly?",
+    "options": ["Incineration", "Gasification", "Pyrolysis", "Anaerobic digestion"],
+    "correctAnswerIndex": 3,
+    "rating": 4,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the main cause of ocean deoxygenation?",
+    "options": ["Warming", "Pollution", "Overfishing", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 4,
+    "topic": "marine"
+  },
+  {
+    "question": "Which environmental indicator is most comprehensive?",
+    "options": ["Carbon footprint", "Ecological footprint", "Water footprint", "Biodiversity index"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main challenge in achieving net-zero emissions?",
+    "options": ["Technology", "Cost", "Policy", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 4,
+    "topic": "climate"
+  },
+  {
+    "question": "Which type of environmental education is most effective?",
+    "options": ["Formal education", "Experiential learning", "Media campaigns", "Community programs"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "What is the most important factor in successful beach cleanups?",
+    "options": ["Number of volunteers", "Regular scheduling", "Data collection", "Community engagement"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "Which circular economy principle is most important?",
+    "options": ["Design out waste", "Keep products in use", "Regenerate natural systems", "All equally"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the main benefit of environmental certification?",
+    "options": ["Market access", "Consumer trust", "Performance improvement", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which climate solution has the highest impact potential?",
+    "options": ["Renewable energy", "Energy efficiency", "Nature-based solutions", "All combined"],
+    "correctAnswerIndex": 3,
+    "rating": 4,
+    "topic": "climate"
+  },
+  {
+    "question": "What is the main goal of integrated waste management?",
+    "options": ["Cost reduction", "Environmental protection", "Resource recovery", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "recycling"
+  },
+  {
+    "question": "Which marine ecosystem provides the most economic value?",
+    "options": ["Coral reefs", "Mangroves", "Seagrass beds", "Open ocean"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the ultimate goal of environmental sustainability?",
+    "options": ["Zero pollution", "Resource efficiency", "Planetary health", "Intergenerational equity"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "general"
+  },
+    {
+    "question": "What percentage of waste can typically be recycled?",
+    "options": ["25%", "50%", "75%", "90%"],
+    "correctAnswerIndex": 2,
+    "rating": 2,
+    "topic": "recycling"
+  },
+  {
+    "question": "Which ocean has the most plastic pollution?",
+    "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main cause of coral bleaching?",
+    "options": ["Pollution", "Ocean warming", "Overfishing", "Plastic debris"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "Which type of pollution is responsible for smog?",
+    "options": ["Water pollution", "Air pollution", "Soil pollution", "Noise pollution"],
+    "correctAnswerIndex": 1,
+    "rating": 1,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is composting?",
+    "options": ["Burning waste", "Decomposing organic matter", "Recycling plastic", "Treating wastewater"],
+    "correctAnswerIndex": 1,
+    "rating": 1,
+    "topic": "recycling"
+  },
+  {
+    "question": "Which country produces the most renewable energy?",
+    "options": ["China", "USA", "Germany", "India"],
+    "correctAnswerIndex": 0,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main ingredient in greenhouse gases?",
+    "options": ["Oxygen", "Nitrogen", "Carbon", "Hydrogen"],
+    "correctAnswerIndex": 2,
+    "rating": 2,
+    "topic": "climate"
+  },
+  {
+    "question": "Which marine animal is most affected by plastic pollution?",
+    "options": ["Sharks", "Sea turtles", "Whales", "Dolphins"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the best time to organize beach cleanups?",
+    "options": ["During high tide", "During low tide", "At night", "During storms"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "Which type of paper cannot be recycled?",
+    "options": ["Newspaper", "Wax-coated paper", "Cardboard", "Office paper"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the primary source of methane emissions?",
+    "options": ["Cars", "Agriculture", "Factories", "Power plants"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "climate"
+  },
+  {
+    "question": "Which item takes the longest to decompose in a landfill?",
+    "options": ["Banana peel", "Aluminum can", "Paper", "Glass bottle"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is sustainable development?",
+    "options": ["Fast economic growth", "Meeting present needs without compromising future generations", "Using all natural resources", "Building more factories"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of bag is most environmentally friendly?",
+    "options": ["Plastic bag", "Paper bag", "Reusable cloth bag", "Biodegradable bag"],
+    "correctAnswerIndex": 2,
+    "rating": 1,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main cause of deforestation?",
+    "options": ["Natural disasters", "Agriculture", "Climate change", "Urbanization"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of light bulb is most energy efficient?",
+    "options": ["Incandescent", "Fluorescent", "LED", "Halogen"],
+    "correctAnswerIndex": 2,
+    "rating": 1,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main component of electronic waste?",
+    "options": ["Plastic", "Metal", "Glass", "Toxic chemicals"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which ocean current helps regulate global climate?",
+    "options": ["Gulf Stream", "Kuroshio Current", "Antarctic Circumpolar Current", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 4,
+    "topic": "marine"
+  },
+  {
+    "question": "What is carbon sequestration?",
+    "options": ["Releasing carbon", "Storing carbon", "Burning carbon", "Trading carbon"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "climate"
+  },
+  {
+    "question": "Which material should be removed before recycling paper?",
+    "options": ["Ink", "Staples", "Glue", "All of the above"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the main source of ocean pollution?",
+    "options": ["Ships", "Land-based sources", "Oil spills", "Fishing"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "Which practice helps reduce water pollution?",
+    "options": ["Using more fertilizers", "Proper waste disposal", "Increasing industrial output", "Building more factories"],
+    "correctAnswerIndex": 1,
+    "rating": 1,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the greenhouse effect?",
+    "options": ["Growing plants in greenhouses", "Trapping heat in the atmosphere", "Reducing oxygen levels", "Increasing rainfall"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "climate"
+  },
+  {
+    "question": "Which type of plastic has the recycling code 1?",
+    "options": ["HDPE", "PET", "PVC", "PP"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is eutrophication?",
+    "options": ["Ocean warming", "Nutrient pollution in water", "Plastic accumulation", "Overfishing"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which renewable energy source works best at night?",
+    "options": ["Solar", "Wind", "Hydro", "Geothermal"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main benefit of organic waste composting?",
+    "options": ["Reduces landfill waste", "Creates fertilizer", "Reduces methane emissions", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "recycling"
+  },
+  {
+    "question": "Which fishing practice is most sustainable?",
+    "options": ["Trawling", "Line fishing", "Net fishing", "Spear fishing"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main cause of air pollution in cities?",
+    "options": ["Factories", "Vehicles", "Construction", "Waste burning"],
+    "correctAnswerIndex": 1,
+    "rating": 1,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which type of waste produces the most methane in landfills?",
+    "options": ["Paper", "Plastic", "Organic waste", "Metal"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the Paris Agreement about?",
+    "options": ["Trade", "Climate change", "Ocean protection", "Waste management"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "climate"
+  },
+  {
+    "question": "Which ecosystem absorbs the most CO2?",
+    "options": ["Forests", "Oceans", "Grasslands", "Wetlands"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "climate"
+  },
+  {
+    "question": "What is the main component of natural gas?",
+    "options": ["Carbon dioxide", "Methane", "Nitrogen", "Oxygen"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "climate"
+  },
+  {
+    "question": "Which practice reduces plastic waste most effectively?",
+    "options": ["Recycling", "Reusing", "Reducing consumption", "Proper disposal"],
+    "correctAnswerIndex": 2,
+    "rating": 2,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is marine dead zone?",
+    "options": ["Area with no fish", "Area with low oxygen", "Polluted area", "Protected area"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "marine"
+  },
+  {
+    "question": "Which type of transportation has the lowest carbon footprint?",
+    "options": ["Car", "Bus", "Train", "Bicycle"],
+    "correctAnswerIndex": 3,
+    "rating": 1,
+    "topic": "climate"
+  },
+  {
+    "question": "What is the main advantage of solar energy?",
+    "options": ["Cheap to install", "Works at night", "Renewable", "No maintenance required"],
+    "correctAnswerIndex": 2,
+    "rating": 1,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of pollution affects the ozone layer?",
+    "options": ["Water pollution", "Air pollution", "Soil pollution", "Noise pollution"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main source of plastic in the ocean?",
+    "options": ["Ships", "Coastal activities", "Rivers", "Fishing nets"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "Which gas is produced when organic waste decomposes anaerobically?",
+    "options": ["Oxygen", "Carbon dioxide", "Methane", "Nitrogen"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main benefit of wind energy?",
+    "options": ["Cheap to build", "Always available", "No emissions during operation", "Takes little space"],
+    "correctAnswerIndex": 2,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of waste is most dangerous to marine life?",
+    "options": ["Paper", "Glass", "Plastic", "Metal"],
+    "correctAnswerIndex": 2,
+    "rating": 1,
+    "topic": "marine"
+  },
+  {
+    "question": "What is carbon trading?",
+    "options": ["Buying carbon", "Selling carbon credits", "Storing carbon", "Burning carbon"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "climate"
+  },
+  {
+    "question": "Which recycling symbol indicates recyclable plastic?",
+    "options": ["Triangle with number", "Circle with arrow", "Square with X", "Diamond with dot"],
+    "correctAnswerIndex": 0,
+    "rating": 2,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the main cause of rising sea levels?",
+    "options": ["Melting ice", "Thermal expansion", "Rainfall", "Both A and B"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "climate"
+  },
+  {
+    "question": "Which type of pollution is measured by pH levels?",
+    "options": ["Air pollution", "Water pollution", "Soil pollution", "Noise pollution"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main component of smog?",
+    "options": ["Water vapor", "Dust", "Ozone", "Carbon monoxide"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which practice helps protect coral reefs?",
+    "options": ["Using sunscreen", "Reef-safe sunscreen", "Avoiding swimming", "Feeding fish"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main source of renewable energy in developing countries?",
+    "options": ["Solar", "Wind", "Hydroelectric", "Biomass"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of waste should be separated first in waste sorting?",
+    "options": ["Organic waste", "Recyclables", "Hazardous waste", "Paper"],
+    "correctAnswerIndex": 2,
+    "rating": 2,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the main effect of deforestation on climate?",
+    "options": ["Increases rainfall", "Reduces CO2 absorption", "Cools the planet", "Increases oxygen"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "climate"
+  },
+  {
+    "question": "Which material can be recycled the most times?",
+    "options": ["Paper", "Plastic", "Aluminum", "Glass"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the main source of mercury pollution in oceans?",
+    "options": ["Industrial discharge", "Coal burning", "Mining", "Fishing"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "marine"
+  },
+  {
+    "question": "Which type of energy storage is most common for renewable energy?",
+    "options": ["Chemical batteries", "Pumped hydro", "Compressed air", "Thermal storage"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main benefit of reducing food waste?",
+    "options": ["Saves money", "Reduces methane emissions", "Conserves resources", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of plastic is hardest to recycle?",
+    "options": ["PET", "HDPE", "Mixed plastics", "PP"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the main cause of water scarcity?",
+    "options": ["Climate change", "Pollution", "Overconsumption", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "Which marine ecosystem is most productive?",
+    "options": ["Open ocean", "Coral reefs", "Deep sea", "Polar regions"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main driver of climate change?",
+    "options": ["Natural cycles", "Human activities", "Solar radiation", "Volcanic activity"],
+    "correctAnswerIndex": 1,
+    "rating": 1,
+    "topic": "climate"
+  },
+  {
+    "question": "Which type of waste increases most rapidly globally?",
+    "options": ["Plastic waste", "Electronic waste", "Organic waste", "Paper waste"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main component of acid rain?",
+    "options": ["Carbonic acid", "Sulfuric acid", "Nitric acid", "Both B and C"],
+    "correctAnswerIndex": 3,
+    "rating": 4,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which practice helps reduce ocean acidification?",
+    "options": ["Reducing CO2 emissions", "Cleaning beaches", "Protecting reefs", "Reducing fishing"],
+    "correctAnswerIndex": 0,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main advantage of electric vehicles?",
+    "options": ["Cheaper to buy", "No emissions at point of use", "Faster than gas cars", "Easier to maintain"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "climate"
+  },
+  {
+    "question": "Which type of pollution is most visible from space?",
+    "options": ["Water pollution", "Air pollution", "Light pollution", "Noise pollution"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main source of nitrogen pollution in waterways?",
+    "options": ["Industrial waste", "Agricultural runoff", "Sewage", "Stormwater"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which renewable energy source has the highest capacity factor?",
+    "options": ["Solar", "Wind", "Hydroelectric", "Geothermal"],
+    "correctAnswerIndex": 2,
+    "rating": 4,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main benefit of urban green spaces?",
+    "options": ["Reduce temperature", "Improve air quality", "Reduce stormwater runoff", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of fishing net causes the most marine damage?",
+    "options": ["Gill nets", "Trawl nets", "Purse seine", "Cast nets"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main component of particulate matter in air pollution?",
+    "options": ["Dust", "Soot", "Pollen", "Chemical particles"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which practice reduces energy consumption most in homes?",
+    "options": ["Using LED bulbs", "Improving insulation", "Using efficient appliances", "All equally important"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main cause of algal blooms?",
+    "options": ["Warm water", "Nutrient pollution", "Lack of oxygen", "Plastic pollution"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "Which type of waste treatment is most environmentally friendly?",
+    "options": ["Landfill", "Incineration", "Recycling", "Composting"],
+    "correctAnswerIndex": 2,
+    "rating": 2,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the main source of indoor air pollution?",
+    "options": ["Cooking", "Smoking", "Cleaning products", "Poor ventilation"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which ecosystem service is most valuable economically?",
+    "options": ["Water purification", "Climate regulation", "Pollination", "Soil formation"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main threat to marine biodiversity?",
+    "options": ["Overfishing", "Climate change", "Pollution", "Habitat destruction"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "Which type of biofuel is most sustainable?",
+    "options": ["Corn ethanol", "Sugarcane ethanol", "Algae biofuel", "Palm oil biodiesel"],
+    "correctAnswerIndex": 2,
+    "rating": 4,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main advantage of circular economy?",
+    "options": ["Reduces waste", "Saves resources", "Creates jobs", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of pollution has the longest-lasting effects?",
+    "options": ["Air pollution", "Water pollution", "Soil pollution", "Noise pollution"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main source of microplastics in the environment?",
+    "options": ["Plastic bottles", "Synthetic clothing", "Plastic bags", "Food packaging"],
+    "correctAnswerIndex": 1,
+    "rating": 4,
+    "topic": "marine"
+  },
+  {
+    "question": "Which renewable energy technology is improving fastest?",
+    "options": ["Solar panels", "Wind turbines", "Hydroelectric", "Geothermal"],
+    "correctAnswerIndex": 0,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main benefit of wetlands for the environment?",
+    "options": ["Water filtration", "Flood control", "Carbon storage", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of waste should never be composted?",
+    "options": ["Vegetable scraps", "Meat and dairy", "Leaves", "Coffee grounds"],
+    "correctAnswerIndex": 1,
+    "rating": 2,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the main cause of ground-level ozone?",
+    "options": ["Industrial emissions", "Vehicle exhaust", "Sunlight reaction with pollutants", "Natural processes"],
+    "correctAnswerIndex": 2,
+    "rating": 4,
+    "topic": "pollution"
+  },
+  {
+    "question": "Which marine conservation strategy is most effective?",
+    "options": ["Marine protected areas", "Fishing quotas", "Pollution control", "Habitat restoration"],
+    "correctAnswerIndex": 0,
+    "rating": 3,
+    "topic": "marine"
+  },
+  {
+    "question": "What is the main driver of renewable energy adoption?",
+    "options": ["Environmental concerns", "Cost reduction", "Government policy", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of packaging is most sustainable?",
+    "options": ["Plastic", "Glass", "Paper", "Reusable containers"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "recycling"
+  },
+  {
+    "question": "What is the main effect of urban heat islands?",
+    "options": ["Increased energy use", "Health problems", "Air quality issues", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 3,
+    "topic": "climate"
+  },
+  {
+    "question": "Which type of agriculture is most sustainable?",
+    "options": ["Organic farming", "Precision agriculture", "Vertical farming", "Permaculture"],
+    "correctAnswerIndex": 3,
+    "rating": 4,
+    "topic": "general"
+  },
+  {
+    "question": "What is the main source of plastic pollution in rivers?",
+    "options": ["Industrial waste", "Urban runoff", "Littering", "Landfill leakage"],
+    "correctAnswerIndex": 2,
+    "rating": 2,
+    "topic": "marine"
+  },
+  {
+    "question": "Which gas is most responsible for ozone depletion?",
+    "options": ["CO2", "Methane", "CFCs", "Nitrogen oxides"],
+    "correctAnswerIndex": 2,
+    "rating": 3,
+    "topic": "pollution"
+  },
+  {
+    "question": "What is the main benefit of green buildings?",
+    "options": ["Lower energy costs", "Better air quality", "Reduced water use", "All of the above"],
+    "correctAnswerIndex": 3,
+    "rating": 2,
+    "topic": "general"
+  },
+  {
+    "question": "Which type of waste produces the most toxic leachate?",
+    "options": ["Organic waste", "Electronic waste", "Plastic waste", "Paper waste"],
+    "correctAnswerIndex": 1,
+    "rating": 3,
+    "topic": "pollution"
+  }
+]
