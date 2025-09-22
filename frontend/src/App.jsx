@@ -6,6 +6,7 @@ import axios from "./api/axiosInstance";
 import { setUser, logoutUser, setLoading } from "./features/userSlice";
 
 // Layouts & Pages
+// Detailed frontend Page with Routes
 import Navbar from "./layouts/Navbar";
 import Home from "./pages/home/Home";
 import EventsList from "./pages/events/EventsList";
