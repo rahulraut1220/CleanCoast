@@ -263,5 +263,3 @@ cleancoast/
 CleanCoast is more than just a platform—it's a movement. Every cleanup event registered, every volunteer connected, and every beach restored contributes to healthier oceans and cleaner coastlines for future generations.
 
 ---
-
-**Note:** This project is designed to support environmental initiatives. Please ensure you have proper permissions and follow local regulations when organizing beach cleanup events.
